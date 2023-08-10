@@ -1,0 +1,165 @@
+.gradient-background {
+  background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+
+
+body {
+  background-color: white;
+}
+
+
+
+.myClassName {
+  padding-right: 15px;
+   padding-left: 15px;
+   margin-right: 0;
+   margin-left: 0;
+   max-width: 900px;
+   overflow:hidden;
+   min-height:0px;
+   height: 700px;
+   width:900px;
+}
+
+
+.myClassName_2 {
+   height: 700px;
+   width:900px;
+}
+
+
+.nav-text {
+  color: white
+}
+
+.nav-text_2 {
+  color: black
+}
+
+#portfolio-nav {
+  color: white;
+}
+
+#about-nav {
+  color: white;
+}
+
+
+#top {
+  
+}
+
+
+#top_1 {
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  margin-right: 5px;
+  margin-left: 10px
+}
+
+#top_2 {
+  background-color: gray;
+  color: white;
+  margin-right: 5px;
+}
+
+#top_3 {
+  background-color: pink;
+  color: white;
+}
+
+
+#middle_1 {
+  background-color: white;
+  color: white;
+  margin-right: 5px;
+  margin-left: 10px
+}
+
+#middle_2 {
+  background-color: black;
+  color: white;
+  font-size: 22px;
+  margin-right: 5px;
+}
+
+#middle_3 {
+  background-color: white;
+  color: white;
+}
+
+
+#bottom_1 {
+  background-color: pink;
+  color: white;
+  margin-right: 5px;
+  margin-left: 10px
+}
+
+#bottom_2 {
+  background-color: slategray;
+  color: white;
+  margin-right: 5px;
+}
+
+#bottom_3 {
+  background-color: black;
+  color: white;
+  font-size: 20px;
+}
+
+
+#footer {
+  background-color: lightgray;
+}
+
+
+
+.profile-img {
+  border-radius: 10%;
+  border-color: black;
+  border-width: 2pt;
+  border-style: solid;
+}
+
+
+
+
+#OLD_top_1 {
+  background-color: black;
+  color: white;
+  margin-right: 5px;
+  text-align: center;
+  padding-top: 12px;
+}
+
+#OLD_top_2 {
+  background-color: gray;
+  color: white;
+  margin-right: 5px;
+  text-align: center;
+  padding-top: 12px;
+}
+
+#OLD_top_3 {
+  background-color: pink;
+  color: white;
+  text-align: center;
+  padding-top: 12px;
+}
