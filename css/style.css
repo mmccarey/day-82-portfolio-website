@@ -126,10 +126,12 @@ body {
 
 
 #footer {
-  background-color: lightgray;
+  background-color: gray;
 }
 
-
+.icon {
+  color: black; 
+}
 
 .profile-img {
   border-radius: 10%;
