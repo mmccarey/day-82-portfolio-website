@@ -60,10 +60,6 @@ body {
 }
 
 
-#top {
-  
-}
-
 
 #top_1 {
   background-color: black;
@@ -133,6 +129,8 @@ body {
   color: black; 
 }
 
+
+
 .profile-img {
   border-radius: 10%;
   border-color: black;
@@ -140,28 +138,3 @@ body {
   border-style: solid;
 }
 
-
-
-
-#OLD_top_1 {
-  background-color: black;
-  color: white;
-  margin-right: 5px;
-  text-align: center;
-  padding-top: 12px;
-}
-
-#OLD_top_2 {
-  background-color: gray;
-  color: white;
-  margin-right: 5px;
-  text-align: center;
-  padding-top: 12px;
-}
-
-#OLD_top_3 {
-  background-color: pink;
-  color: white;
-  text-align: center;
-  padding-top: 12px;
-}
